@@ -1,22 +1,22 @@
-SaMo
+Wednesday
 ---
+The definitive list of lists.
+
+### SaMo
 * Caffe Luxxe
 * Primo Passo
 * Demitasse
 * Espresso Cielo
 
-In Between
----
+### In Between
 * Cognoscenti Coffee
 * Go Get Em Tiger
 
-Downtown
----
+### Downtown
 * G&B Coffee
 * Stumptown
 * Handsome
 
-Misc
----
+### Misc
 * Sweet Rose Creamery
 * Peddler's Creamery
