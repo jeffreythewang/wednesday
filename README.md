@@ -20,3 +20,4 @@ The definitive list of lists.
 ### Misc
 * Sweet Rose Creamery
 * Peddler's Creamery
+* DK's Donuts (SaMo)
