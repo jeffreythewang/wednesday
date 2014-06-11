@@ -18,8 +18,8 @@ The definitive list of lists.
 * Handsome
 
 ### Open Latte
-Copa Vida
-Balconi
+* Copa Vida
+* Balconi
 
 ### Misc
 * Sweet Rose Creamery
