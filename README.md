@@ -17,6 +17,10 @@ The definitive list of lists.
 * Stumptown
 * Handsome
 
+### Open Latte
+Copa Vida
+Balconi
+
 ### Misc
 * Sweet Rose Creamery
 * Peddler's Creamery
